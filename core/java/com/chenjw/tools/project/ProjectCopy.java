@@ -52,7 +52,7 @@ public class ProjectCopy {
 	}
 
 	public static void main(String[] args) {
-		ProjectCopy.copyFolder("project/textimage");
+		ProjectCopy.copyFolder("project/dynaComponent");
 		System.out.println("finished!");
 	}
 }
